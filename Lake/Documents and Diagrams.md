@@ -1,4 +1,3 @@
-![[Diagrams]]
-
-
-![[Written design documents]]
+See:
+- [[Design Documents]];
+- [[Diagrams]].
