@@ -1,11 +1,12 @@
-Draw.io tool may be used for diagrams construction.
+Are useful during [[Refining the model|model refinements]]. 
 
-Diagram **is not a [[Domain Model|model]]** itself, it just **means for** model **explanation**.
+Diagram **is not a [[Domain Model|model]]** itself, it just **means for** model **explanation**. It helps to focus discussion on some aspect of the model.
 
-There's no such thing as full object model diagram, as it would be too complex. It's better to have **multiple smaller diagrams** instead of one big.
+It makes no sense to have full object model diagram, as it would be too complex, hence not suitable for discussion. It's better to have **multiple smaller diagrams** instead of one big.
 
 **Unified Modeling Language** (UML):
 - [[Object interactions diagram|object interactions]];
 - [[Class diagram|class diagrams]].
-[[Object interactions diagram|object interactions]].
+
+[[Diagram Tools]]
 
